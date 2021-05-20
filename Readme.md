@@ -73,13 +73,22 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/heroku.png"/>
     <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/firebase.png"/>
 </p>
+
 ---
+
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a> --> 
 
 # Github Stats
 ![Md. Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical)
 
 # Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Kais&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Kais&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
