@@ -90,7 +90,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 # Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Kais&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" />
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
