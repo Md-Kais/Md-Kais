@@ -35,7 +35,7 @@ I am a curious programmer who always tries to develop the front end of a web app
 # TECHNICAL SKILLS
 
 ### Front End (Expert): 
-Html, CSS, Bootstrap, Material UI,  JavaScript, TypeScript, ES6, React JS, React Router
+Html, CSS, Bootstrap, Material UI,  JavaScript, TypeScript, ES6, React JS, React Router,D3.js
 ### Back End: 
 Node JS, Express JS, MongoDB, Postman
 ### Deploy tools: 
@@ -88,10 +88,10 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 ---
 
 # Github Stats
-![Md. Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Kais&show_icons=true&theme=radical)
+![Md. Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical)
 
 # Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Kais&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Kais&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
