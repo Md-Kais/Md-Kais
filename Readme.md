@@ -1,16 +1,15 @@
 
 ### Hi there, I'm a Md. Kais, a Full Stack Web Developer!! 👋 
 ## ABOUT ME
-I am a curious programmer who always try to develop the front end of a web application
-using React.js. I am always ready to learn any technology or programming language. I am
-thrilled to be joining any software company to enhance company name and reputation day by
-day at my level best.
+I am a curious programmer who always tries to develop the front end of a web application using React.js,Redux.js,D3.js. Currently, I learn about next.js. I am always ready to learn any technology or programming language. I am now a MERN stack developer.
 
 ## I'm a  👽 Creature 🤖 
 
 - 🔭 I’m currently working with MERN!
 - 👯 I’m looking to collaborate with TypeScript, Next.js, Vue & angular
 - 🥅 I always like to learn new things and have experience with new stuff
+
+<br/>
 
 ### Spotify Playing 🎧
 
@@ -56,6 +55,36 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </p>
 <br />
 
+### FrameWorks Ans Library....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
+	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+ 
+</p>
+<br />
+
+### Database....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
+</p>
+<br/>
+
+### Tools....
+
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluent-systems-filled/144/000000/github-2.png"/>
+	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+ 
+</p>
+<br />
 ---
 # Github Stats
 ![Md. Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Kais&show_icons=true&theme=radical)
