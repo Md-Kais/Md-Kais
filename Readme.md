@@ -40,7 +40,6 @@ Firebase, Heroku, GitHub,  Netlify,
 VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
  -->
 ### Programming Languages....
-
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
@@ -50,8 +49,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
 </p>
 
-### FrameWorks Ans Library....
-
+### Frameworks & Library....
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
 	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
@@ -60,15 +58,13 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </p>
 
 ### Database....
-
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 </p>
 
 ### Tools....
-
 <p align="center">
-	<img width="10%" style="padding:10px" src="https://img.icons8.com/nolan/144/github.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/github.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/144/000000/gitlab.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/heroku.png"/>
     <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/firebase.png"/>
@@ -85,10 +81,12 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </a> --> 
 
 # Github Stats
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical"   alt="Md. Kais's GitHub stats" />
-
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" alt="Most used Langauge" />
+</a>
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
