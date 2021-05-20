@@ -62,7 +62,6 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/vue-js.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
  
 </p>
 <br />
@@ -77,14 +76,14 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 ### Tools....
 
 <p align="center">
-	<img width="10%" style="padding:10px" src="https://img.icons8.com/fluent-systems-filled/144/000000/github-2.png"/>
-	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+	<img width="10%" style="padding:10px" src="https://img.icons8.com/nolan/144/github.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/144/000000/gitlab.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/heroku.png"/>
+    <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/firebase.png"/>
  
 </p>
 <br />
+
 ---
 
 # Github Stats
