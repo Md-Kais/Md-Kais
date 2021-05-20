@@ -10,7 +10,8 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 
 - 🔭 Kais is currently working with MERN!
 - 👯 Kais looking to collaborate with TypeScript, Next.js, Vue & angular
-
+- 🥅 Kais always like to learn new things and have experience with new stuff
+  
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Md-Kais Spotify Playing" width="350" />](https://open.spotify.com/user/bxpyixj89kmgcjgjzv5keu6fd)
@@ -40,6 +41,7 @@ Firebase, Heroku, GitHub,  Netlify,
 VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
  -->
 ### Programming Languages....
+
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
