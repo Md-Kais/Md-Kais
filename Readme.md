@@ -85,12 +85,10 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </a> --> 
 
 # Github Stats
-![Md. Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical)
 
-# Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Kais&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=material-palenight)
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical"   alt="Md. Kais's GitHub stats" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" alt="Most used Langauge" />
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
