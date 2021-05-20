@@ -1,5 +1,7 @@
 
 ## Hi there, I'm a Md. Kais, a Full Stack Web Developer!! 👋 
+[![Website](https://img.shields.io/website?label=braindeath.com&style=for-the-badge&url=https%3A%2F%2Fbraindeath.com)](https://mdkais.netlify.app)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Md_Kais_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Md_Kais_)
 
 ## Who is Kais?
 Kais is a curious programmer who always tries to develop the front end of a web application using React.js,Redux.js,D3.js. Currently, He is learnong about next.js. He always ready to learn any technology or programming language. He is now a MERN stack developer.
@@ -8,15 +10,11 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 
 - 🔭 Kais is currently working with MERN!
 - 👯 Kais looking to collaborate with TypeScript, Next.js, Vue & angular
-- 🥅 Kais always like to learn new things and have experience with new stuff
-
-<br/>
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Md-Kais Spotify Playing" width="350" />](https://open.spotify.com/user/bxpyixj89kmgcjgjzv5keu6fd)
 <br/>
-
 
 ### Feel Free to Contact with Kais.....
 
@@ -28,7 +26,6 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 	<a href="https://www.instagram.com/ice_in_kais/"  target="_blank"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://twitter.com/Md_Kais_"  target="_blank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
-<br />
 
 <!-- 
 # TECHNICAL SKILLS
@@ -42,7 +39,6 @@ Firebase, Heroku, GitHub,  Netlify,
 ### Others: 
 VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
  -->
-
 ### Programming Languages....
 
 <p align="center">
@@ -53,7 +49,6 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
 </p>
-<br />
 
 ### FrameWorks Ans Library....
 
@@ -62,16 +57,13 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/vue-js.png"/>
- 
 </p>
-<br />
 
 ### Database....
 
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 </p>
-<br/>
 
 ### Tools....
 
@@ -80,10 +72,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/144/000000/gitlab.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/heroku.png"/>
     <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/firebase.png"/>
- 
 </p>
-<br />
-
 ---
 
 # Github Stats
