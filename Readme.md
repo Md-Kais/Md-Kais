@@ -83,10 +83,10 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </a> --> 
 
 # Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://mdkais.netlify.app" target="_blank">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical"   alt="Md. Kais's GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://mdkais.netlify.app" target="_blank">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" alt="Most used Langauge" />
 </a>
 
