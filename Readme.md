@@ -61,7 +61,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
 	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
+    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/vue-js.png"/>
   <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
  
 </p>
@@ -77,7 +77,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 ### Tools....
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/fluent-systems-filled/144/000000/github-2.png"/>
+	<img width="10%" style="padding:10px" src="https://img.icons8.com/fluent-systems-filled/144/000000/github-2.png"/>
 	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
     <img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
@@ -86,6 +86,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </p>
 <br />
 ---
+
 # Github Stats
 ![Md. Kais's GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Kais&show_icons=true&theme=radical)
 
