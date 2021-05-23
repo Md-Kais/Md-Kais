@@ -10,7 +10,7 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 
 - 🔭 Kais is currently working with MERN!
 - 👯 Kais looking to collaborate with TypeScript, Next.js, Vue & angular
-- 🥅 Kais always like to learn new things and have experience with new stuff
+- 🥅 Kais always likes to learn new things and have experience with new stuff
   
 ### Spotify Playing 🎧
 
