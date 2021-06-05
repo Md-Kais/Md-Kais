@@ -90,6 +90,8 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" alt="Most used Langauge" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=MD-Kais)](https://github.com/MD-Kais/github-profile-trophy)
+
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
 
