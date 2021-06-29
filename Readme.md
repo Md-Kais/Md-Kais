@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Md_Kais_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Md_Kais_)
 
 ## Who is Kais?
-Kais is a curious programmer who always tries to develop the front end of a web application using React.js,Redux.js,D3.js. Currently, He is learnong about next.js. He always ready to learn any technology or programming language. He is now a MERN stack developer.
+Kais is a curious programmer who always tries to develop the front end of a web application using React.js,Redux.js,D3.js. Currently, He is learning about REACT_NATIVE. He always ready to learn any technology or programming language. He is now a MERN stack developer.
 
 ## Kais is a  👽 Creature 🤖 !
 
