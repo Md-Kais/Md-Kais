@@ -14,8 +14,6 @@ Kais is a curious programmer who always tries to develop the front end of a web 
   
 ### Spotify Playing 🎧
 [![Spotify playing](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true&bg_color=black&title_color=cyan&text_color=cyan)](https://open.spotify.com/user/bxpyixj89kmgcjgjzv5keu6fd)
-
-
 <br/>
 
 ### Feel Free to Contact with Kais.....
