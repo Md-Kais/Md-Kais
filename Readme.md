@@ -67,8 +67,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 ### Tools....
 <p align="center">
 	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITHUB"  src="https://img.icons8.com/nolan/144/github.png"/> </a>
-	
-	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITLAB"  src="https://img.icons8.com/ios/144/000000/gitlab.png"/></a>
+	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITLAB"  src="https://img.icons8.com/ios/144/000000/gitlab.png"/> </a>
 	<img width="10%" style="padding:5px"  title="HEROKU"  src="https://img.icons8.com/nolan/144/heroku.png"/>
     <img width="10%" style="padding:5px"  title="FIREBASE"   src="https://img.icons8.com/color/144/000000/firebase.png"/>
 </p>
