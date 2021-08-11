@@ -19,12 +19,12 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 ### Feel Free to Contact with Kais.....
 
 <p align="center">
-	<a href="https://github.com/Md-Kais" target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-    <a href="https://mdkais.netlify.app" target="_blank"><img  alt="website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
-	<a href="https://www.linkedin.com/in/md-kais-7a976b1b0/"  target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.facebook.com/kais.superb/"  target="_blank"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/ice_in_kais/"  target="_blank"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/Md_Kais_"  target="_blank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://github.com/Md-Kais"  title="GITHUB"  target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+    <a href="https://mdkais.netlify.app"  title="WEBSITE"  target="_blank"><img  alt="website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
+	<a href="https://www.linkedin.com/in/md-kais-7a976b1b0/"  title="LINKEDIN"   target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/kais.superb/"  title="FACEBOOK"  target="_blank"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/ice_in_kais/"  title="INSTAGRAM"   target="_blank"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://twitter.com/Md_Kais_"  title="TWITTER"   target="_blank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
 <!-- 
@@ -53,9 +53,10 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 ### Frameworks & Library....
 <p align="center">
 	<img width="10%" style="padding:5px"  title="BOOTSTRAP"  src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
-	<img width="10%" style="padding:5px"  title="REACT NATIVE"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
+	<img width="10%" style="padding:5px"  title="REACT NATIVE+ REACT.JS"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px"  title="MATERIAL UI"  src="https://img.icons8.com/color/144/000000/material-ui.png"/>
     <img width="10%" style="padding:5px"  title="VUE.JS"  src="https://img.icons8.com/color/144/000000/vue-js.png"/>
+	<img width="10%" style="padding:5px"  title="GRAPHQL" src="https://img.icons8.com/color/144/000000/graphql.png"/>
 </p>
 
 ### Database....
@@ -65,8 +66,9 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 
 ### Tools....
 <p align="center">
-	<img width="10%" style="padding:5px"  title="GITHUB"  src="https://img.icons8.com/nolan/144/github.png"/>
-	<img width="10%" style="padding:5px"  title="GITLAB"  src="https://img.icons8.com/ios/144/000000/gitlab.png"/>
+	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITHUB"  src="https://img.icons8.com/nolan/144/github.png"/> </a>
+	
+	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITLAB"  src="https://img.icons8.com/ios/144/000000/gitlab.png"/></a>
 	<img width="10%" style="padding:5px"  title="HEROKU"  src="https://img.icons8.com/nolan/144/heroku.png"/>
     <img width="10%" style="padding:5px"  title="FIREBASE"   src="https://img.icons8.com/color/144/000000/firebase.png"/>
 </p>
@@ -82,7 +84,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 </a> --> 
 
 # Github Stats
-<a href="https://mdkais.netlify.app" target="_blank">
+<a href="https://mdkais.netlify.app" target="_blank"> 
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical"   alt="Md. Kais's GitHub stats" />
 </a>
 <a href="https://mdkais.netlify.app" target="_blank">
