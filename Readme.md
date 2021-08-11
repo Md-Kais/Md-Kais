@@ -43,32 +43,32 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 
 <p align="center">
 	<img width="10%" style="padding:5px" title="C" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/typescript.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/nodejs.png"/>
-  <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
+	<img width="10%" style="padding:5px"  title="PYTHON "  src="https://img.icons8.com/color/144/000000/python.png"/>
+	<img width="10%" style="padding:5px"  title="JAVASCRIPT"  src="https://img.icons8.com/color/144/000000/javascript.png"/>
+    <img width="10%" style="padding:5px"  title="TYPESCRIPT"  src="https://img.icons8.com/color/144/000000/typescript.png"/>
+  <img width="10%" style="padding:5px"  title="NODE.JS"  src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+  <img width="10%" style="padding:5px"  title="C++/CPP/C PLUS PLUS"  src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
 </p>
 
 ### Frameworks & Library....
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
-	<img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/material-ui.png"/>
-    <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/vue-js.png"/>
+	<img width="10%" style="padding:5px"  title="BOOTSTRAP"  src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
+	<img width="10%" style="padding:5px"  title="REACT NATIVE"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
+	<img width="10%" style="padding:5px"  title="MATERIAL UI"  src="https://img.icons8.com/color/144/000000/material-ui.png"/>
+    <img width="10%" style="padding:5px"  title="VUE.JS"  src="https://img.icons8.com/color/144/000000/vue-js.png"/>
 </p>
 
 ### Database....
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/mongodb.png"/>
+	<img width="10%" style="padding:5px"  title="MONGODB"  src="https://img.icons8.com/color/144/000000/mongodb.png"/>
 </p>
 
 ### Tools....
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/github.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/144/000000/gitlab.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/nolan/144/heroku.png"/>
-    <img width="10%" style="padding:5px"  src="https://img.icons8.com/color/144/000000/firebase.png"/>
+	<img width="10%" style="padding:5px"  title="GITHUB"  src="https://img.icons8.com/nolan/144/github.png"/>
+	<img width="10%" style="padding:5px"  title="GITLAB"  src="https://img.icons8.com/ios/144/000000/gitlab.png"/>
+	<img width="10%" style="padding:5px"  title="HEROKU"  src="https://img.icons8.com/nolan/144/heroku.png"/>
+    <img width="10%" style="padding:5px"  title="FIREBASE"   src="https://img.icons8.com/color/144/000000/firebase.png"/>
 </p>
 
 ---
