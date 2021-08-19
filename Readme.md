@@ -43,6 +43,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 
 <p align="center">
 	<img width="10%" style="padding:5px" title="C" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
+	<img  width="10%" style="padding:5px" title="JAVA" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo--v2.png"/>
 	<img width="10%" style="padding:5px"  title="PYTHON "  src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px"  title="JAVASCRIPT"  src="https://img.icons8.com/color/144/000000/javascript.png"/>
     <img width="10%" style="padding:5px"  title="TYPESCRIPT"  src="https://img.icons8.com/color/144/000000/typescript.png"/>
