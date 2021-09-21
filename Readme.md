@@ -13,7 +13,7 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 - 🥅 Kais always likes to learn new things and have experience with new stuff
   
 ### Spotify Playing 🎧
-[![Spotify playing](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true&bg_color=black&title_color=cyan&text_color=cyan)](https://open.spotify.com/user/bxpyixj89kmgcjgjzv5keu6fd)
+<a href="https://open.spotify.com/user/bxpyixj89kmgcjgjzv5keu6fd"><img src="http://spotify.aio-api.ml/spotify?id=bxpyixj89kmgcjgjzv5keu6fd&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
 <br/>
 
 ### Feel Free to Contact with Kais.....
