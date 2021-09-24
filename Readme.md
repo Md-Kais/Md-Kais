@@ -57,7 +57,7 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px"  title="REACT NATIVE+ REACT.JS"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px"  title="MATERIAL UI"  src="https://img.icons8.com/color/144/000000/material-ui.png"/>
     <img width="10%" style="padding:5px"  title="VUE.JS"  src="https://img.icons8.com/color/144/000000/vue-js.png"/>
-	<img width="10%" style="padding:5px"  title="GRAPHQL" src="https://img.icons8.com/color/144/000000/graphql.png"/>
+<!-- 	<img width="10%" style="padding:5px"  title="GRAPHQL" src="https://img.icons8.com/color/144/000000/graphql.png"/> -->
 </p>
 
 ### Database....
@@ -68,9 +68,8 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 ### Tools....
 <p align="center">
 	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITHUB"  src="https://img.icons8.com/nolan/144/github.png"/> </a>
-	<a href="https://mdkais.netlify.app" target="_blank"> <img width="10%" style="padding:5px"  title="GITLAB"  src="https://img.icons8.com/ios/144/000000/gitlab.png"/> </a>
-	<img width="10%" style="padding:5px"  title="HEROKU"  src="https://img.icons8.com/nolan/144/heroku.png"/>
-    <img width="10%" style="padding:5px"  title="FIREBASE"   src="https://img.icons8.com/color/144/000000/firebase.png"/>
+	<a href="https://mdkais.netlify.app" target="_blank">  <img width="10%" style="padding:5px"  title="FIREBASE" src="https://img.icons8.com/color/144/000000/firebase.png"/> </a>
+	<a href="https://mdkais.netlify.app" target="_blank"><img width="10%" style="padding:5px"  title="HEROKU"  src="https://img.icons8.com/nolan/144/heroku.png"/> </a>
 </p>
 
 ---
