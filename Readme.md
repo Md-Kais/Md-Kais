@@ -47,13 +47,14 @@ VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 	<img width="10%" style="padding:5px"  title="PYTHON "  src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px"  title="JAVASCRIPT"  src="https://img.icons8.com/color/144/000000/javascript.png"/>
     <img width="10%" style="padding:5px"  title="TYPESCRIPT"  src="https://img.icons8.com/color/144/000000/typescript.png"/>
-  <img width="10%" style="padding:5px"  title="NODE.JS"  src="https://img.icons8.com/color/144/000000/nodejs.png"/>
+
   <img width="10%" style="padding:5px"  title="C++/CPP/C PLUS PLUS"  src="https://img.icons8.com/color/144/000000/c-plus-plus-logo.png"/>
 </p>
 
 ### Frameworks & Library....
 <p align="center">
 	<img width="10%" style="padding:5px"  title="BOOTSTRAP"  src="https://img.icons8.com/color/144/000000/bootstrap.png"/>
+	  <img width="10%" style="padding:5px"  title="NODE.JS"  src="https://img.icons8.com/color/144/000000/nodejs.png"/>
 	<img width="10%" style="padding:5px"  title="REACT NATIVE+ REACT.JS"  src="https://img.icons8.com/color/144/000000/react-native.png"/>
 	<img width="10%" style="padding:5px"  title="MATERIAL UI"  src="https://img.icons8.com/color/144/000000/material-ui.png"/>
     <img width="10%" style="padding:5px"  title="VUE.JS"  src="https://img.icons8.com/color/144/000000/vue-js.png"/>
