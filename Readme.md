@@ -1,6 +1,10 @@
 
 ## Hi there, I'm Md. Kais, a Full Stack Web Developer!! 👋 
-[![Website](https://img.shields.io/website?label=braindeath.com&style=for-the-badge&url=https%3A%2F%2Fbraindeath.com)](https://mdkais.netlify.app)
+
+![https://mdkais.netlify.app/](https://img.shields.io/website?logo=BRAINDEATH&style=for-the-badge&up_message=Braindeath&url=https%3A%2F%2Fmdkais.netlify.app%2F)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/kais-md)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Md_Kais_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Md_Kais_)
 
 ## Who is Kais?
@@ -12,20 +16,20 @@ Kais is a curious programmer who always tries to develop the front end of a web 
 - 👯 Kais looking to collaborate with TypeScript, Next.js, Vue & angular
 - 🥅 Kais always likes to learn new things and have experience with new stuff
   
-### Spotify Playing 🎧
-<a href="https://open.spotify.com/user/bxpyixj89kmgcjgjzv5keu6fd"><img src="http://spotify.aio-api.ml/spotify?id=bxpyixj89kmgcjgjzv5keu6fd&theme=wavy&image=true&color_theme=radical&bars_when_not_listening=true&bg_color=&title_color=&text_color=&hide_status=false" alt="spotify-readme-card"/></a>
-<br/>
+  
+  
 
-### Feel Free to Contact with Kais.....
+
+<!-- ### Feel Free to Contact with Kais.....
 
 <p align="center">
 	<a href="https://github.com/Md-Kais"  title="GITHUB"  target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
     <a href="https://mdkais.netlify.app"  title="WEBSITE"  target="_blank"><img  alt="website" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
 	<a href="https://www.linkedin.com/in/md-kais-7a976b1b0/"  title="LINKEDIN"   target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/kais.superb/"  title="FACEBOOK"  target="_blank"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
-	<a href="https://www.instagram.com/ice_in_kais/"  title="INSTAGRAM"   target="_blank"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://twitter.com/Md_Kais_"  title="TWITTER"   target="_blank"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
+	<a href="https://www.instagram.com/kais_lies/"  title="INSTAGRAM"   target="_blank"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+
+</p> -->
 
 <!-- 
 # TECHNICAL SKILLS
@@ -39,7 +43,7 @@ Firebase, Heroku, GitHub,  Netlify,
 ### Others: 
 VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
  -->
-### Programming Languages....
+### Programming Languages HE knew....
 
 <p align="center">
 	<img width="10%" style="padding:5px" title="C" src="https://img.icons8.com/color/144/000000/c-programming.png"/>
