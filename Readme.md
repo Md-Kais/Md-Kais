@@ -7,14 +7,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Md_Kais_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=Md_Kais_)
 
-## Github Stats
-<a href="https://mdkais.netlify.app" target="_blank"> 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Md-Kais&count_private=true&show_icons=true&theme=radical"   alt="Md. Kais's GitHub stats" />
-</a>
-<a href="https://mdkais.netlify.app" target="_blank">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" alt="Most used Langauge" />
-</a>
-
 ----
 
 #### Profile views counter
