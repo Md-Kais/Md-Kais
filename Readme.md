@@ -15,9 +15,7 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Md-Kais&layout=compact&theme=radical" alt="Most used Langauge" />
 </a>
 
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=Md-Kais)](https://github.com/Md-Kais/github-profile-trophy)
+----
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{Md-Kais}/count.svg)
-
