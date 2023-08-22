@@ -1,5 +1,5 @@
 
-## Hi there, I'm Md. Kais, a Full Stack Web Developer!! 👋 
+## Social Media
 
 [![https://mdkais.netlify.app/](https://img.shields.io/website?logo=BRAINDEATH&style=for-the-badge&up_message=Braindeath&url=https%3A%2F%2Fmdkais.netlify.app%2F)](https://mdkais.netlify.app/)
 
