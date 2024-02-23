@@ -1,7 +1,7 @@
 
 ## Social Media
 
-[![https://mdkais.netlify.app/](https://img.shields.io/website?logo=BRAINDEATH&style=for-the-badge&up_message=Braindeath&url=https%3A%2F%2Fmdkais.netlify.app%2F)](https://mdkais.netlify.app/)  
+[![https://mdkais.netlify.app/](https://img.shields.io/website?logo=BRAINDEATH&style=for-the-badge&up_message=Braindeath&url=https%3A%2F%2Fmdkais.netlify.app%2F)](https://mdkais.netlify.app/)  (Changes will be made after june 2024)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://linkedin.com/in/kais-md)
 
