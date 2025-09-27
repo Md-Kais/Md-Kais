@@ -10,36 +10,57 @@ Here’s the thing: I like shipping useful software. I work across **MERN**, **T
 
 ## Selected Work
 
-### BasaKhujo API — Home rental backend (TypeScript, Express, Prisma, PostgreSQL) · **Aug 2025 - Sep 2025**
-Owner dev. A clean TS stack with real modules: **auth**, **properties**, **locations**, **bookings**, **favorites**, and **messaging**.  
-- **Stack:** Node + TypeScript, **Express**, **Prisma**, **PostgreSQL**, **Zod**, JWT; deployed on **Render**.  
-- Includes seed/DB notes and a manual happy-path to test endpoints quickly.  
+### BasaKhujo API — Home rental backend · **Aug 2025 – Sep 2025**
+Production-grade TypeScript API for a Bangladesh-focused rental marketplace (auth, listings, location hierarchy, bookings, favorites, messaging).  
+**Role:** Back-end Lead & Scrum Master (owner/primary dev)  
+**Front-end Tech:** — Next.js 15, React.js 19, Tailwind CSS v4  
+**Back-end Tech:** Node.js, TypeScript, Express, Prisma, PostgreSQL, Zod, JWT; deployed on Render  
+**Modules:** auth, properties, locations, bookings, favorites, messaging , reviews 
+**Notes:** seed scripts + DB docs; manual “happy-path” guide for quick endpoint testing  
 **Repo:** https://github.com/Md-Kais/basaKhujo_api
 
-### Retrieve Me — Cross-platform lost & found (Flutter) · **Jan 2024 - April 2024**
-Co-maintainer (major contributor). A “personal OS”-style app for reporting and recovering lost items.  
-- Built with **Flutter (Dart)**; integrates **Google Maps**, **Firebase Notifications**, **Cloud Storage**, and QR flows.  
-- Focus on simple flows: report → verify → match → notify.  
+---
+
+### Retrieve Me — Cross-platform lost & found (Flutter) · **Jan 2024 – Apr 2024**
+Personal OS–style app to report lost items, verify claims, auto-match, and notify owners/finders.  
+**Role:** Associate Front-end & Back-end Lead; Scrum Master; co-maintainer (major contributor)  
+**Front-end Tech:** Flutter (Dart)  
+**Back-end Tech:** Firebase (Auth, Cloud Storage, Cloud Messaging/Notifications)  
+**Highlights:** simple flows → report → verify → match → notify  
 **Repo:** https://github.com/Md-Kais/retrieve_me
 
-### CUERS — Exam remuneration system (Front-end and Back-end contributor) · **Jan 2023 - April 2024**
-Web app for the University of Chittagong to digitize remuneration workflows.  
-- **React + Tailwind + Vite** front-end
-- Dynamic tables with input validation + **PDF generation** for activities and bills
-- **Node + TypeScript, Express, Kysely, PostgreSQL, Zod, JWT** Back-end;
-  
-**Repo:** https://github.com/ImranIF/CUERS-New and Back-end is in private repository for safety reason.
+---
 
-### the-world-of-kais — My portfolio (React) · **2021**
-A lean React site (PWA-friendly) that showcases projects, blogs, and contact.  
-**Repo:** https://github.com/Md-Kais/the-world-of-kais • **Live:** https://mdkais.netlify.app
+### CUERS — Exam Remuneration System · **Jan 2023 – Apr 2024**
+Digitizes examiner/invigilator remuneration workflows for the University of Chittagong.  
+**Role:** Major back-end contributor (schema & query layer, REST APIs, auth, validation)  
+**Front-end Tech:** React, Vite, Tailwind  
+**Back-end Tech:** Node.js, TypeScript, Express, Kysely, PostgreSQL, Zod, JWT (private repo)  
+**Repo:** https://github.com/ImranIF/CUERS-New  
+**Note:** Back-end repository is private for institutional security.
+
+---
+
+### the-world-of-kais — Portfolio (React) · **2021**
+Lean React portfolio (PWA-friendly) showcasing projects, writing, and contact.  
+**Role:** Solo  
+**Front-end Tech:** React, JavaScript, CSS/HTML  
+**Back-end Tech:** — Will be updated. 
+**Live:** https://mdkais.netlify.app  
+**Repo:** https://github.com/Md-Kais/the-world-of-kais
+
+---
 
 ### AnyTalk — Lightweight group chat UI (React/Firebase) · **2021**
-A no-nonsense web chat UI you can clone and extend.  
+Minimal web chat UI you can clone and extend.  
+**Role:** Solo  
+**Front-end Tech:** React, Redux, Material UI  
+**Back-end Tech:** Firebase (hosting & services)  
 **Repo:** https://github.com/Md-Kais/AnyTalk
 
 ### Leetcode — Algorithms & SQL practice (mostly C++) · **2023–2025**
-A continually growing set of problem solutions and data-practice exercises.  
+A continually growing set of problem solutions and data-practice exercises. 
+**Language** : C++, SQL
 **Repo:** https://github.com/Md-Kais/Leetcode
 
 ---
