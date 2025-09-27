@@ -2,7 +2,7 @@
 
 Here’s the thing: I like shipping useful software. I work across **MERN**, **TypeScript/Node**, **Flutter**, and a fair bit of **C++** from competitive programming days. On the research side, I’m exploring the **Semantic Web** and deep learning—especially **GANs** and **RNNs**.
 
-- 🔭 Current focus: building reliable web & mobile apps, production-ready APIs, and learning systems that actually help people.  
+- 🔭 Current focus: building reliable web & mobile apps, production-ready APIs, and deep learning systems that actually help people.  
 - ✍️ Portfolio: **[mdkais.netlify.app](https://mdkais.netlify.app)**  
 - 📬 Reach me: **mdkais3@gmail.com**
 
@@ -15,7 +15,7 @@ Production-grade TypeScript API for a Bangladesh-focused rental marketplace (aut
 **Role:** Back-end Lead & Scrum Master (owner/primary dev)  
 **Front-end Tech:** — Next.js 15, React.js 19, Tailwind CSS v4  
 **Back-end Tech:** Node.js, TypeScript, Express, Prisma, PostgreSQL, Zod, JWT; deployed on Render  
-**Modules:** auth, properties, locations, bookings, favorites, messaging , reviews 
+**Modules:** auth, properties, locations, bookings, favorites, messaging , reviews \
 **Notes:** seed scripts + DB docs; manual “happy-path” guide for quick endpoint testing  
 **Repo:** https://github.com/Md-Kais/basaKhujo_api
 
@@ -59,8 +59,8 @@ Minimal web chat UI you can clone and extend.
 **Repo:** https://github.com/Md-Kais/AnyTalk
 
 ### Leetcode — Algorithms & SQL practice (mostly C++) · **2023–2025**
-A continually growing set of problem solutions and data-practice exercises. 
-**Language** : C++, SQL
+A continually growing set of problem solutions and data-practice exercises. \
+**Language** : C++, SQL \
 **Repo:** https://github.com/Md-Kais/Leetcode
 
 ---
@@ -103,10 +103,10 @@ A continually growing set of problem solutions and data-practice exercises.
 
 ## What I’m open to
 
-- Product-focused full-stack roles (React/Node/TypeScript)  
-- Flutter apps with clean state and offline-friendly UX  
-- Applied ML features that actually reach users
-- Any type of Semantic web and deep learning research.
+- Product-focused full-stack roles (React/Node/**TypeScript**)  
+- **Flutter** apps with clean state and offline-friendly UX  
+- Applied **ML** features that actually reach users
+- Any type of **Semantic web** and **deep learning** research.
 
 If you’ve got something interesting, **email me** or **open an issue** on a repo. Let’s build.
 
