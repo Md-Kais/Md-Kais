@@ -2,11 +2,39 @@
 
 Here’s the thing: I like shipping useful software. I work across **MERN**, **TypeScript/Node**, **Flutter**, and a fair bit of **C++** from competitive programming days. On the research side, I’m exploring the **Semantic Web** and deep learning—especially **GANs** and **RNNs**.
 
-- 🔭 Current focus: building reliable web & mobile apps, production-ready APIs, and deep learning systems that actually help people.  
+- 🔭 **Current focus:** building reliable web & mobile apps, production-ready APIs, and deep learning systems that actually help people.  
 - ✍️ Portfolio: **[mdkais.netlify.app](https://mdkais.netlify.app)**  
 - 📬 Reach me: **mdkais3@gmail.com**
 
 ---
+## Tech I use
+
+**Core:** JavaScript / **TypeScript**, **Node/Express**, React, Java, **Prisma**, PostgreSQL, MongoDB  
+**Mobile:** **Flutter (Dart)**  
+**ML/DS:** Python, Jupyter , **C++** \
+**Infra/Dev:** Git, CLI, Vite, Render, Netlify, Firebase
+
+Currently learnig both **DevOps and MLOps**.
+
+---
+
+## Languages used across my repos
+
+**Primary:** **TypeScript**, **JavaScript**, **Dart**, **C++**, **Python**, **SQL**, **HTML/CSS**  
+**Also present:** **JAVA**, **KOTLIN**
+
+> I’m pragmatic about tools: I’ll use what the project needs and keep the code readable.
+
+---
+
+## Research & Learning
+
+- **Semantic Web:** knowledge representation and linked data  
+- **Deep Learning:** **GANs** for generative tasks; **RNNs** for sequence modeling  
+- Workflow: prototype fast in **notebooks**, then harden in **TypeScript/Python** depending on the problem.
+
+---
+
 
 ## Selected Work
 
@@ -62,32 +90,6 @@ Minimal web chat UI you can clone and extend.
 A continually growing set of problem solutions and data-practice exercises. \
 **Language** : C++, SQL \
 **Repo:** https://github.com/Md-Kais/Leetcode
-
----
-
-## Research & Learning
-
-- **Semantic Web:** knowledge representation and linked data  
-- **Deep Learning:** **GANs** for generative tasks; **RNNs** for sequence modeling  
-- Workflow: prototype fast in **notebooks**, then harden in **TypeScript/Python** depending on the problem.
-
----
-
-## Tech I use
-
-**Core:** JavaScript / **TypeScript**, **Node/Express**, React, Java, **Prisma**, PostgreSQL, MongoDB  
-**Mobile:** **Flutter (Dart)**  
-**ML/DS:** Python, Jupyter , **C++**
-**Infra/Dev:** Git, CLI, Vite, Render, Netlify, Firebase
-
----
-
-## Languages used across my repos
-
-**Primary:** **TypeScript**, **JavaScript**, **Dart**, **C++**, **Python**, **SQL**, **HTML/CSS**  
-**Also present:** **JAVA**, **KOTLIN**
-
-> I’m pragmatic about tools: I’ll use what the project needs and keep the code readable.
 
 ---
 
